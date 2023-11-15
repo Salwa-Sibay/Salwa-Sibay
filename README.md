@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Salwa-Sibay
 - 👀 I’m interested in video games, art, and psychology.
-- 🌱 I’m currently learning C and plan on relearning Python.
+- 🌱 I’m currently learning C, Java and R. I also plan on relearning Python.
 - 📫 Reach me at Salwa0Sibay@gmail.com, StarfoxStellar@gmail.com, or any of my social media handles (Starfox_Stellar or some variation)
